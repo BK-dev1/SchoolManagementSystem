@@ -1,0 +1,15 @@
+14
+14 Electronic_Circuits_Labs 0 0	1h30 1 2 40	60
+13 Mathematical_Analysis_3 1h30	1h30 0 2 4 40 60
+12 Introduction_to_AI 3h 1h30 1h30 4 6 40 60
+11 Statistical_Inference 1h30 1h30 0 3	4 40 60
+10 Computer_Architecture 1h30 1h30	1h30 3 5 40 60
+9 Operating_Systems	1h30 1h30 1h30	3 5	40 60
+8 Theory_of_Computing 1h30 1h30	0 3	4 40 60
+7 Introduction_to_Business	1h30 0 0 1 1 40	60
+6 Web_Development 1h30 0 3h	2 6	40	60
+5 Probability 1h30 1h30	0 2	4 40 60
+4 Databases	1h30 1h30 1h30 3 5 40 60
+3 Mathematical_Analysis_2 1h30 3h 0	3 5	40 60
+2 Mathematical_Logic 1h30 1h30 0 2 4 40 60
+1 Data_Structures_and_Algorithms_2 1h30 1h30 1h30 4 5 40 60

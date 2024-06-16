@@ -1,0 +1,15 @@
+14
+14 Project_Management 1h30 0h30 0 1	2 40 60
+13 Group_Project 0 0 1h30 2 2 100 100 	
+12 Computer_and_network_Security 1h30 1h30 1h30	3 5	40 60
+11 Advanced_Databases 1h30 1h30 1h30 3 5 40 60
+10 Time_Series_Analysis_and_Classification	1h30 1h30 0h30 3 5 40 60
+9 Numerical_Methods_and_Optimisation 2h	1h30 0h30 3	5 40 60
+8 Machine_Learning	3h	1h30 3h	4 6	40 60
+7 Entrepreneurship_and_Innovation 1h30	0h45 0	1 1	40 60
+6 Mobile_Development 1h30 0	3h 2 5 40 60
+5 Networks_and_Protocols 1h30 1h30 1h30	3 5	40 60
+4 Software_Engineering 1h30	1h30 1h30 3	5 40 60
+3 Stochastic_Modelling_and_Simulation 2h 1h30 0h30 3 5 40 60
+2 Operations_Research 1h30 1h30	0 3	4 40 60
+1 Data_Mining	1h30 0 3h 4	5 40 60
