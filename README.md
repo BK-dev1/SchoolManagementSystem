@@ -2,7 +2,7 @@ Authors: Belkacem Alielche, Aimene Boughenama
 
 This is a School Management System Project for Ensia School 
 
-For the ones who want to build and run the project they need to first build and run wxWidgets Library From source.
+For the ones who want to build and run the project you need to first build and run wxWidgets Library From source.
 Then Link the project depending on the platform you currently using.
 
 
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=ONYW3hBbk-8&list=PLFk1_lkqT8MbVOcwEppCPfjGOGhLvc
 https://www.youtube.com/watch?v=urIpZnCTeKw&list=PLFk1_lkqT8MbVOcwEppCPfjGOGhLvcf9G&index=11&pp=iAQB
 
 
-If you encounter any problem feel free to contact me.
+If you encounter any problem feel free to contact us.
 
 Note that this project is not done 100%, so if you have any feedback, I am happy to receive it 
 
